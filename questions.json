@@ -1,0 +1,176 @@
+{"response_code":0,
+"results":
+[
+        {
+          "question": "¿Qué es el phishing?",
+          "correct_answer": "Una técnica de suplantación de identidad en línea",
+          "incorrect_answers": [
+            "Un método de pesca",
+            "Un ataque de malware",
+            "Un tipo de virus informático"
+          ]
+        },
+        {
+          "question": "¿Cuál de las siguientes acciones constituye un delito cibernético?",
+          "correct_answer": "Acceder a una cuenta en línea sin permiso",
+          "incorrect_answers": [
+            "Actualizar el software regularmente",
+            "Utilizar contraseñas fuertes",
+            "Mantener un cortafuegos"
+          ]
+        },
+        {
+          "question": "¿Qué es el ransomware?",
+          "correct_answer": "Un ataque de secuestro de datos",
+          "incorrect_answers": [
+            "Un tipo de antivirus",
+            "Una técnica de seguridad informática",
+            "Un protocolo de red"
+          ]
+        },
+        {
+          "question": "¿Qué significa IoT en el contexto de la ciberseguridad?",
+          "correct_answer": "Internet of Things",
+          "incorrect_answers": [
+            "Input/Output Technology",
+            "Intranet of Threats",
+            "Information on Trends"
+          ]
+        },
+        {
+          "question": "¿Cuál es el propósito principal de un ataque de denegación de servicio (DDoS)?",
+          "correct_answer": "Desactivar un sitio web o servicio",
+          "incorrect_answers": [
+            "Robar información confidencial",
+            "Enviar correos electrónicos no deseados",
+            "Crear copias de seguridad"
+          ]
+        },
+        {
+          "question": "¿Qué es un keylogger?",
+          "correct_answer": "Un tipo de malware que registra pulsaciones de teclas",
+          "incorrect_answers": [
+            "Un software antivirus",
+            "Un dispositivo de entrada",
+            "Una técnica de autenticación"
+          ]
+        },
+        {
+          "question": "¿Cuál de las siguientes acciones protege mejor contra el robo de identidad en línea?",
+          "correct_answer": "Utilizar autenticación de dos factores",
+          "incorrect_answers": [
+            "Compartir contraseñas",
+            "Guardar contraseñas en el navegador",
+            "Usar la misma contraseña para múltiples cuentas"
+          ]
+        },
+        {
+          "question": "¿Qué es un firewall?",
+          "correct_answer": "Una barrera de seguridad en red",
+          "incorrect_answers": [
+            "Un programa de piratería",
+            "Una barrera física",
+            "Un sistema de prevención de intrusiones"
+          ]
+        },
+        {
+          "question": "¿Cuál es el propósito de un software antivirus?",
+          "correct_answer": "Proteger contra virus y malware",
+          "incorrect_answers": [
+            "Optimizar el rendimiento del sistema",
+            "Controlar la temperatura del hardware",
+            "Crear contraseñas fuertes"
+          ]
+        },
+        {
+          "question": "¿Qué es el hacking ético?",
+          "correct_answer": "Realizar pruebas de seguridad autorizadas",
+          "incorrect_answers": [
+            "Acceder ilegalmente a sistemas",
+            "Distribuir malware",
+            "Suplantación de identidad"
+          ]
+        },
+        {
+          "question": "¿Cuál de las siguientes es una medida de seguridad efectiva para proteger datos en línea?",
+          "correct_answer": "Cifrar la comunicación",
+          "incorrect_answers": [
+            "Mantener contraseñas en un archivo de texto",
+            "Utilizar una conexión Wi-Fi no segura",
+            "Compartir información personal en redes sociales"
+          ]
+        },
+        {
+          "question": "¿Qué es un ataque de ingeniería social?",
+          "correct_answer": "Una técnica de manipulación psicológica para obtener información",
+          "incorrect_answers": [
+            "Un ataque físico a una infraestructura",
+            "Un ataque que utiliza la fuerza bruta",
+            "Un ataque de piratería informática"
+          ]
+        },
+        {
+          "question": "¿Qué es el malware?",
+          "correct_answer": "Software malicioso",
+          "incorrect_answers": [
+            "Hardware malicioso",
+            "Una técnica de seguridad",
+            "Una red segura"
+          ]
+        },
+        {
+          "question": "¿Cuál de las siguientes es una práctica segura al navegar por internet?",
+          "correct_answer": "Actualizar regularmente el software de seguridad",
+          "incorrect_answers": [
+            "Hacer clic en enlaces sospechosos",
+            "Compartir contraseñas por correo electrónico",
+            "Utilizar contraseñas débiles"
+          ]
+        },
+        {
+          "question": "¿Qué es el spoofing de correo electrónico?",
+          "correct_answer": "Suplantación de identidad para engañar al destinatario",
+          "incorrect_answers": [
+            "Enviar correos electrónicos no deseados",
+            "Crear copias de seguridad de correos electrónicos",
+            "Recibir correos electrónicos fraudulentos"
+          ]
+        },
+        {
+          "question": "¿Cuál de las siguientes es una forma de protegerse contra el malware?",
+          "correct_answer": "Mantener el software actualizado",
+          "incorrect_answers": [
+            "Desactivar el software antivirus",
+            "Descargar archivos de fuentes desconocidas",
+            "Usar la misma contraseña para todo"
+          ]
+        },
+        {
+          "question": "¿Qué es el robo de identidad?",
+          "correct_answer": "Suplantar la identidad de otra persona",
+          "incorrect_answers": [
+            "Acceder a cuentas en línea sin permiso",
+            "Utilizar contraseñas fuertes",
+            "Hacer copias de seguridad de datos personales"
+          ]
+        },
+        {
+          "question": "¿Cuál es la función principal de un cortafuegos?",
+          "correct_answer": "Controlar el acceso a la red",
+          "incorrect_answers": [
+            "Proteger contra virus",
+            "Optimizar el rendimiento del sistema",
+            "Actualizar software automáticamente"
+          ]
+        },
+        {
+          "question": "¿Qué es el secuestro de cuenta?",
+          "correct_answer": "Tomar el control de una cuenta en línea",
+          "incorrect_answers": [
+            "Cerrar sesión automáticamente",
+            "Robar información financiera",
+            "Desactivar la autenticación de dos factores"
+          ]
+        }
+      ]      
+}
