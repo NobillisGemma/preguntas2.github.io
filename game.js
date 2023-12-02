@@ -14,7 +14,7 @@ let availableQuesions = [];
 let questions = [];
 
 fetch(
-    'questions.json'
+    'https://nobillisgemma.github.io/preguntas2.github.io/questions.json'
 )
     .then((res) => {
         return res.json();
@@ -63,7 +63,7 @@ getNewQuestion = () => {
     if (availableQuesions.length === 0 || questionCounter >= MAX_QUESTIONS) {
         localStorage.setItem('mostRecentScore', score);
         //go to the end page
-        return window.location.assign('end.html');
+        return window.location.assign('https://nobillisgemma.github.io/preguntas2.github.io/end.html');
     }
     questionCounter++;
     progressText.innerText = `Question ${questionCounter}/${MAX_QUESTIONS}`;
