@@ -25,5 +25,5 @@ saveHighScore = (e) => {
     highScores.splice(5);
 
     localStorage.setItem('highScores', JSON.stringify(highScores));
-    window.location.assign('/');
+    window.location.assign('https://nobillisgemma.github.io/preguntas2.github.io/index.html');
 };
